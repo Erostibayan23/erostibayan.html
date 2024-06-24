@@ -1,0 +1,108 @@
+body{
+	font-weight: bold;
+	 
+}
+.container{
+	
+	width: 1600px; 
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 20px;
+    
+	background-image: url("john.webp");
+	font
+}
+.city{
+	text-align: center;
+}
+
+.city h2{
+}
+
+.regs {
+	font-size:15;
+	text-align: center;
+	background-color: maroon;
+	color: white;
+	
+	
+}
+.table td{
+	padding-top: 3px;
+	padding-left: 160px;
+	padding-bottom: 3px;
+	padding-right:160px;
+	
+}
+.container th {
+    background-color: #f2f2f2;
+	
+  }
+  
+  th, td {
+    padding: 8px;
+  }
+ .container table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid maroon;
+	
+  }
+  .regss {
+	font-size:15;
+	text-align: center;
+	background-color: #ede845;
+	color: white;
+	
+	
+}
+ .naming{
+	 color: maroon;
+ }
+ .city{
+	 color: maroon;
+	 
+ }
+ .cityy{
+	
+	 text-align: Center;
+ }
+ 
+ .units{
+	 background-color:#ede845; 
+	 padding: -4px;
+ }
+ .units table{
+	 padding-top: 3px;
+	 padding-bottom:3px;
+ }
+ .billing table{
+	 background-color:maroon;
+	 text-align:center;
+	 color:white;
+ }
+ 
+ .asses table{
+	 width:1600px;
+ }
+ .scho td {text-align:center;
+  width:1500px;
+ }
+.scholar td{
+	color:maroon;
+	
+}
+.free td{
+	color:black;
+}
+.term{
+	color:maroon;
+}
+
+.unitss table{
+	 color:maroon;
+ }
+.asses-container {
+    float: right;
+    margin-left: 100px; 
+}
